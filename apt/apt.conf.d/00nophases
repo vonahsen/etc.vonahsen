@@ -1,0 +1,3 @@
+#disable ubuntu phased updates
+Update-Manager::Always-Include-Phased-Updates true;
+APT::Get::Always-Include-Phased-Updates true;

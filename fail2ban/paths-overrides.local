@@ -1,0 +1,3 @@
+[DEFAULT]
+vonahsen_apache_access_log  = /home/www/logs/access.log
+vonahsen_apache_error_log  = /home/www/logs/error.log

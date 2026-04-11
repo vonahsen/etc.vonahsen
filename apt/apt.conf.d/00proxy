@@ -1,0 +1,2 @@
+# use lan apt proxy
+Acquire::http { Proxy "http://apt.dmz.vonahsen.com:3142"; }
